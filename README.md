@@ -130,7 +130,7 @@ TestBaseModel class:
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
 ## Data diagram
-![data_diagram](/data_diagram.jpg)
+![data_diagram](https://github.com/MatriMariem/AirBnB_clone_v4/raw/master/data_diagram.jpg)
 
 ## Examples of use
 ```
