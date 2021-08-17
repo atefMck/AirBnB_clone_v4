@@ -168,14 +168,9 @@ Second part of Airbnb: Joann Vuong
 
 Atef Mechken - [Github](https://github.com/atefMck) / [Twitter](https://twitter.com/xFreak666)  
 
-## AUTHOR DESCRIPTION (Mariem Matri)
- - I'm a Food Process Engineer and a software engineering student at Holberton School.
-  - I have been studying low-level programming, high-level
- programming, system engineering and devops, and web
- stack programming (Front-end & Back-end) using a
- methodology based on peer-learning and projects.
-  - I'm curious, adaptable, a fast learner and I love developing
- my skills.
+## AUTHOR DESCRIPTION
+Since my early years, I have been pretty active in social activity such as my 2 years as a member of Electronic Tunisian Legends one of the more popular organisation in media and vidéo game community in Tunisia.
+Also my experience as a Co-Marketing Manager in Hult Prize University of Souse helped me a lot enlarging my knowledge in the marketing field, combined with my computer skills I managed to be the winner team of the Hult Prize 2019 local competition and qualified me to reach the regional of that year.
 
 ## License
 Public Domain. No copy write protection.
